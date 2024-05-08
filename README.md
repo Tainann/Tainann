@@ -24,4 +24,13 @@
   <a href="mailto:tdw0722@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Tainann/Tainann/blob/output/github-contribution-grid-snake.vsg)
+<div>
+  <a href="https://github.com/Tainann">
+  <img height="180cm"  align="center" src="https://github-readme-stats.vercel.app/api?username=Tainan&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180cm"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainan&layout=compact&langs_count=7&theme=react" />
+
+  ![Snake animation](https://github.com/Tainann/Tainann/blob/output/github-contribution-grid-snake.svg)
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Tainann&repo=Tainann&theme=react)](https://github.com/Tainann/Tainann)
+
