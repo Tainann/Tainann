@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo **Dinâmica dos Fluidos Computacional, Python e Machine Learning**
 
-- 👯 Sou bolsista de Iniciação Tecnológica no Laboratório de Máquinas Térmicas e Hidrogênio Verde **Rede de Pesquisa e Inovação em Energias Renováveis do Ceará (Rede Verdes)**
+- 👯 Sou bolsista de Inovação Tecnológica no Laboratório de Hidrogênio e Máquinas Térmicas no projeto **Rede de Pesquisa e Inovação em Energias Renováveis do Ceará (Rede Verdes)**
 
 - 💬 Me pergunte sobre **Python, Gestão de Projetos, Energia Eólica e Machine Learning**
 
