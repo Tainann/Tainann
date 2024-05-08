@@ -26,8 +26,8 @@
 
 <div>
   <a href="https://github.com/Tainan">
-  ![Snake animation](https://github.com/Tainan/Tainan/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Tainan/Tainann/blob/output/github-contribution-grid-snake.svg)
 
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Tainan&repo=Tainan&theme=react)](https://github.com/Tainan/Tainan)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Tainan&repo=Tainann&theme=react)](https://github.com/Tainan/Tainann)
 
