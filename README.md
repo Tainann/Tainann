@@ -7,7 +7,7 @@
 
 - 👯 Sou bolsista de Inovação Tecnológica no Laboratório de Hidrogênio e Máquinas Térmicas no projeto **Rede de Pesquisa e Inovação em Energias Renováveis do Ceará (Rede Verdes)**
 
-- 💬 Me pergunte sobre **Python, Gestão de Projetos, Energia Eólica e Machine Learning**
+- 💬 Me pergunte sobre **Python, Energia Eólica e Machine Learning**
 
 - 📫 Contacte-me em **tdw0722@gmail.com**
 
