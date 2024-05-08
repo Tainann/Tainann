@@ -24,10 +24,5 @@
   <a href="mailto:tdw0722@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-  <a href="https://github.com/Tainann">
-  ![Snake animation](https://github.com/Tainann/Tainann/blob/output/github-contribution-grid-snake.svg)
 
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Tainann&repo=Tainann&theme=react)](https://github.com/Tainann/Tainann)
-
+ 
