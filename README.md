@@ -25,7 +25,7 @@
 </div>
 
 <div>
-  <a href="https://github.com/Tainan">
+  <a href="https://github.com/Tainann">
   ![Snake animation](https://github.com/Tainan/Tainann/blob/output/github-contribution-grid-snake.svg)
 
 
