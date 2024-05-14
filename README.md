@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Tainan</h1>
-<h3 align="center">Pesquisador Python com foco em Data Science e Machine Learning</h3>
+<h3 align="center">Programador Python com foco em Data Science e Machine Learning</h3>
 
 - 🔭 Atualmente sou **estudante de Engenharia de Energias Renováveis na Universidade Federal do Ceará**
 
