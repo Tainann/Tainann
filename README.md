@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **Python, Energia Eólica e Machine Learning**
 
-- ⚡ Fun fact **Um eterno fã de Doctor Who**
+- ⚡ Fun fact **um eterno fã de Doctor Who**
 
 ##
 
