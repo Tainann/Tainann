@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou **estudante de Engenharia de Energias Renováveis na Universidade Federal do Ceará**
 
-- 🌱 Estou aprendendo **Dinâmica dos Fluidos Computacional, Python e Machine Learning**
+- 🌱 Estou aprendendo **Python, Machine Learning, Deep Learning, Data Science e CFD**
 
 - 👯 Sou bolsista de Inovação Tecnológica no Laboratório de Aerodinâmica e Energias Renováveis no projeto **Rede de Pesquisa e Inovação em Energias Renováveis do Ceará (Rede Verdes)**
 
