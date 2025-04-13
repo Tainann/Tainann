@@ -3,11 +3,11 @@
 
 - 🔭 Atualmente sou **estudante de Engenharia de Energias Renováveis na Universidade Federal do Ceará**
 
-- 🌱 Estou aprendendo **Python, Machine Learning, Deep Learning, Data Science e CFD**
+- 🌱 Estou aprendendo **Python, Machine Learning, Deep Learning, Metaheurísticas e Data Science**
 
-- 👯 Sou bolsista de Inovação Tecnológica no Laboratório de Aerodinâmica e Energias Renováveis no projeto **Rede de Pesquisa e Inovação em Energias Renováveis do Ceará (Rede Verdes)**
+- 👯 Sou bolsista de Iniciação à Docência e voluntário do Laboratório de Hidrogênio Verde e Máquinas Térmicas
 
-- 💬 Me pergunte sobre **Python, Energia Eólica e Machine Learning**
+- 💬 Me pergunte sobre **Python, Deep Learning e Machine Learning**
 
 - ⚡ Fun fact: **um eterno fã de Doctor Who**
 
