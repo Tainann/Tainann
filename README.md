@@ -1,11 +1,9 @@
 <h1 align="center">Oi 👋, eu sou o Tainan</h1>
 <h3 align="center">Programador Python com foco em Data Science e Machine Learning</h3>
 
-- 🔭 Atualmente sou **estudante de Engenharia de Energias Renováveis na Universidade Federal do Ceará**
-
 - 🌱 Estou aprendendo **Python, Machine Learning, Deep Learning, Metaheurísticas e Data Science**
 
-- 👯 Sou bolsista de Iniciação à Docência e voluntário do Laboratório de Hidrogênio Verde e Máquinas Térmicas
+- 👯 Sou bolsista de Iniciação Científica no Laboratório de Hidrogênio Verde e Máquinas Térmicas
 
 - 💬 Me pergunte sobre **Python, Deep Learning e Machine Learning**
 
